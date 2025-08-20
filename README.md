@@ -1,1 +1,79 @@
-# resume
+<html>
+<head>
+<link rel="stylesheet" href="style1.css">
+</head>
+<body>
+
+
+<h1>A Hema krishna Reddy</h1>
+<h3>Email:anupallihemakrishna@gmail.com</h3>
+<hr>
+<table border="2">
+
+<tr>
+<th>Education</th>
+<th>Course</th>
+<th>Cgpa</th>
+<th>Year of passing</th>
+
+</tr>
+<tr>
+<td>Sreenivasa instituite of technology and management studies</td>
+<td>Btech</td>
+<td>9.0</td>
+<td>2027</td>
+</tr>
+<tr>
+<td>Vemu it</td>
+<td>Diploma</td>
+<td>8.2</td>
+<td>2024</td>
+</tr>
+<tr>
+<td>Zphs</td>
+<td>School</td>
+<td>10</td>
+<td>2021</td>
+</tr>
+</table>
+
+<h2>Carrer objective :</h2>
+<p>Aspiring Full stack web developer.Proficient in html,css,javascript.Exploring mern to build scalable websites.Building real world projects using mern stack.</p>
+<hr>
+<h2>Skills</h2>
+<ol type="1">
+<li>Html</li>
+<li>Css</li>
+<li>Javascript</li>
+<li>Node.js</li>
+<li>Express.js</li>
+<li>MongoDB</li>
+<li>React.js</li>
+<li>Python</li>
+<li>Data structure and algorithms</li>
+</ol>
+<hr>
+<h2>Projects</h2>
+<ul>
+<li>Todo-list app</li>
+<p>Build a todo list app using Html,css,javascript.to add and delete the tasks.</p>
+<li>Qr-code generator</li>
+<p>Build a Qr generator using html,css,javascript</p>
+</ul>
+<hr>
+<h2>Experience</h2>
+<h2>Intern @ IIT jammu</h2>
+<ul>
+<li><p>Exploring Mern to built Ecommerce site (project phase upcoming).</p></li>
+<li><p>Duration:June-aug 2025</p></li>
+</ul>
+<hr>
+<h2>Contact information</h2>
+<p>name:A.Hema krishna</p>
+<p>Email:anuppallihemakrishna1234@gmail.com
+<p>Address: P.kothakota, Chittoor(District)</p>
+
+
+</body>
+
+</html>
